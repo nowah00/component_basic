@@ -4,7 +4,7 @@ export default {
     console.log('beforeUnmount');
   },
   unmounted() {
-    console.log('unmouted');
+    console.log('unmounted');
   },
 };
 </script>
